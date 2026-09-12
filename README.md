@@ -52,6 +52,8 @@ Vercel should host the Vite frontend only. The Express API owns a persistent Web
 
 The frontend defaults to `http://localhost:4000` and `ws://localhost:4000` when the Vercel variables are absent, so local development continues to work.
 
+##Live URL - https://velozity-dashboard-zitu.vercel.app/
+
 ## Project structure
 
 ```text
